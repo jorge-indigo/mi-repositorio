@@ -2,5 +2,6 @@
 * Editando el archivo desde mi local
 * Otra vez editando el archivo desde la primer linea
 * Otra cosa
-* Una vez m√°s
+* Una vez m·s
 * Editando el archivo desde la web
+* Editando el readme desde bitbucket en la web
